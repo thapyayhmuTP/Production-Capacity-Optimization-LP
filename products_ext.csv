@@ -1,0 +1,21 @@
+ ,name,perishable,cost
+1,Full Cream Milk,yes,1
+2,Yogurt,yes,0.8
+3,Cheddar Cheese,yes,1.5
+4,Mozzarella Cheese,yes,1.6
+5,Butter,yes,2
+6,Chocolate Cake,no,2
+7,Cookies,no,1.5
+8,Fruit Tart,no,2.5
+9,Dry Sweets,no,1.8
+10,Biscuits,no,1
+11,Orange Juice,yes,1
+12,Apple Juice,yes,1.1
+13,Soft Drink,no,0.9
+14,Grape Juice,yes,1.2
+15,Mineral Water,no,0.6
+16,White Bread,no,0.5
+17,Brown Bread,no,0.6
+18,Croissant,no,1
+19,Toast Bread,no,0.7
+20,Pastries,no,0.8

@@ -1,0 +1,21 @@
+product_id,name,profit,material,material_qty,time_per_unit,line,demand
+1,Full Cream Milk,0.5,milk,1,1,dairy,500000
+2,Yogurt,0.4,milk,0.8,1.5,dairy,400000
+3,Cheddar Cheese,0.5,milk,1.5,2,dairy,200000
+4,Mozzarella Cheese,0.5,milk,1.6,2.5,dairy,150000
+5,Butter,0.5,milk,2,3,dairy,100000
+6,Chocolate Cake,1,chocolate,0.15,5,sweets,100000
+7,Cookies,1,flour,0.2,4,sweets,120000
+8,Fruit Tart,1,flour,0.25,6,sweets,80000
+9,Dry Sweets,1,sugar,0.1,3,sweets,90000
+10,Biscuits,0.8,flour,0.15,3.5,sweets,130000
+11,Orange Juice,0.5,orange,1,2,juice,300000
+12,Apple Juice,0.5,apple,1.1,2.5,juice,250000
+13,Soft Drink,0.5,water,0.9,1.5,juice,350000
+14,Grape Juice,0.5,grape,1.2,2.5,juice,200000
+15,Mineral Water,0.4,chlorine,0.6,1,juice,500000
+16,White Bread,0.5,flour,0.3,2,bakery,300000
+17,Brown Bread,0.5,flour,0.35,2.5,bakery,250000
+18,Croissant,0.8,flour,0.4,3,bakery,150000
+19,Toast Bread,0.5,flour,0.3,2,bakery,200000
+20,Pastries,0.7,flour,0.35,2.5,bakery,180000
